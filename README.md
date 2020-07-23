@@ -5,7 +5,7 @@
 Development Manager at @FP Solutions.
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@eduardo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/eduardo)](https://twitter.com/eduardo)  -->
-<!--[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/)  -->
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Elias-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliaseduardo/)](https://www.linkedin.com/in/eliaseduardo/) 
 [![Gmail Badge](https://img.shields.io/badge/-eduardo.eliasap@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.eliasap@gmail.com)](mailto:eduardo.eliasap@gmail.com)
 
 <!-- Enthusiast of the best web & mobile development technologies. -->
