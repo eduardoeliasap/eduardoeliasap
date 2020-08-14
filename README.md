@@ -2,7 +2,7 @@
 
 # Eduardo Elias
 
-Development Manager at @FP Solutions.
+Web Developer at @FP Solutions.
 
 ### Connect with me:
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@eduardo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/eduardo)](https://twitter.com/eduardo)  -->
@@ -11,19 +11,18 @@ Development Manager at @FP Solutions.
 
 <!-- Enthusiast of the best web & mobile development technologies. -->
 
-Technology lover and researcher, active in the development of Web applications for 11 years with expertise in Analysis of Requirements and Processes.
+Technology lover and researcher, active in the development Web applications for 11 years with expertise in ASP .Net, NodeJs, TypeScript, ReactJs, React Native and Laravel.
 
-Systems analyst, ASP .Net, NodeJs, ReactJs and Laravel development manager at FP Soluções Tecnológicas.
+Knowledge and experience in: 
+   • Web Development, Mobile application, DevOps, Microservices, Scalable Architecture, Data Science, Analytics, Business Intelligence and BigData; 
+   • Innovative, Agile and Lean Methodologies, and Scrum Philosophies.
 
-Knowledge and experience in:
-• Projects and Technology Services (Web Development, Mobile, DevOps, Microservices and Scalable Architecture, Data Science, Analytics, BI and BigData);
-• Innovative, Agile and Lean Methodologies and Philosophies (Agile, Scrum).
 
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt=".Net" width="26px" src="https://w0.pngwave.com/png/328/221/c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-png-clip-art.png" />
+<img align="left" alt=".Net" width="26px" src="https://i.pinimg.com/originals/79/18/66/791866447147ee53f4e65dffdf90d12b.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
