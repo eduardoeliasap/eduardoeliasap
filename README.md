@@ -2,7 +2,7 @@
 
 # Eduardo Elias
 
-Web Developer at @FP Solutions.
+Web Developer
 
 ### Connect with me:
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@eduardo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/eduardo)](https://twitter.com/eduardo)  -->
